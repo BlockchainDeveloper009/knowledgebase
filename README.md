@@ -85,6 +85,15 @@ $ tree
 ├── file_in_root.ext
 └── README.md
 
+1- build people who make money
+2. action+self discipline
+3. think of your dream and your actions towards i
+4. 
+
+bondo body filler - car
+
+Bondo fiberglass Resin & Fiberglass resin jelly - water proof
+bondo glass * hair filler(1inch problem) - 1inch problems
 
 
 
