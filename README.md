@@ -58,6 +58,7 @@ tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
 printf "# Project tree\n\n${tree}"
 ```
 
+```
 $ tree
 .
 ├── dir1
@@ -69,4 +70,21 @@ $ tree
 │   └── file23.ext
 ├── dir3
 ├── file_in_root.ext
+└── README.md$ tree
+.
+
+```
+├── ## Drone
+│   ├── #### 1Drone
+│   └── file12.ext
+├── ####  Masonary
+│   ├── #### Painting
+│   ├── #### Inspection
+│   └── ####  Gardening
+├── dir3
+├── file_in_root.ext
 └── README.md
+
+
+
+
