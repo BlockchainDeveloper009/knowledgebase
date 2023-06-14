@@ -22,7 +22,18 @@ urls, links,
 #### Inspection
 ####  Gardening
 ####  Masonary
- 
+#### Maintenance
+Products 
+DAP 3.0 Concrete & Masonry sELF-lEVELING 
+Silicone Waterproof
+
+[Web scraping for financial statements with Python — 1](https://towardsdatascience.com/web-scraping-for-accounting-analysis-using-python-part-1-b5fc016a1c9a)
+[Automate Financial Analysis in Excel - Easy with Python - Full Tutorial](https://www.youtube.com/watch?v=TaF8aPahj1g)
+[Financial Modeling Prep API Documentation](https://site.financialmodelingprep.com/developer/docs/)
+[Why the Hell Would I Use Node.js? A Case-by-case Tutorial](https://www.toptal.com/javascript/why-the-hell-would-i-use-node-js)
+
+
+
 ```bash
 |-- top
 |-- c12
