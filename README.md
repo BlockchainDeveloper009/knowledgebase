@@ -25,10 +25,31 @@ urls, links,
 >>>>> how to spray termido around home
 >>>>> how to install termite baits around home
 >>>>> test
->>>>> 
+
+```bash
+|-- Wood work - Carpentry
+|----|---Termite - Termite frass | Signs of Destructive Termites!
+|    |---
+|-- c12
+|    |---c13
+|    |---c14
+|-- c2
+```
 
 #### Painting
 #### Masonary
+
+```bash
+|-- Water proofing
+|----|---Termite - Termite frass | Signs of Destructive Termites!
+|    |---
+|-- Filler/Sealant
+|    |---c13
+|    |---c14
+|-- Foam sealant
+     |--- can be used only air tight the ac ducts
+```
+
 #### Maintenance
 #### Inspection
 ####  Gardening
@@ -44,13 +65,7 @@ Silicone Waterproof
 
 
 
-```bash
-|-- top
-|-- c12
-|    |---c13
-|    |---c14
-|-- c2
-```
+
 
 $ ./tree-md .
 # Project tree
