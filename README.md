@@ -15,11 +15,18 @@ urls, links,
 
 #### Plumbing
    --Electrical
+
 #### Wood work - Carpentry
 >>> [Load-bearing wall - Rotted Studd wall - Replace bottom plate - bottom plate of a wall - Non loadbearing wall - bottom plate installation]() |
 >>> [SIDING ROT situation - Masonite siding/Glorified Cardboard]() |
 >>> [Honest Carpenter yt channel](https://www.youtube.com/watch?v=ZvuEPVcLZcA)
->>> 
+
+###### >> Termite
+>>>>> how to spray termido around home
+>>>>> how to install termite baits around home
+>>>>> test
+>>>>> 
+
 #### Painting
 #### Masonary
 #### Maintenance
