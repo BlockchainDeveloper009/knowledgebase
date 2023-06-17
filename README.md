@@ -15,14 +15,17 @@ urls, links,
 
 #### Plumbing
    --Electrical
-#### Wood work
->>> [Load-bearing wall - Rotted Studd wall - Replace bottom plate - bottom plate of a wall - Non loadbearing wall - bottom plate installation]()
+#### Wood work - Carpentry
+>>> [Load-bearing wall - Rotted Studd wall - Replace bottom plate - bottom plate of a wall - Non loadbearing wall - bottom plate installation]() |
+>>> [SIDING ROT situation - Masonite siding/Glorified Cardboard]() |
+>>> [Honest Carpenter yt channel](https://www.youtube.com/watch?v=ZvuEPVcLZcA)
+>>> 
 #### Painting
-#### Drone
+#### Masonary
+#### Maintenance
 #### Inspection
 ####  Gardening
-####  Masonary
-#### Maintenance
+#### Drone
 Products 
 DAP 3.0 Concrete & Masonry sELF-lEVELING 
 Silicone Waterproof
