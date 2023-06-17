@@ -24,30 +24,49 @@ urls, links,
 ###### >> Termite
 >>>>> how to spray termido around home
 >>>>> how to install termite baits around home
->>>>> test
+
 
 ```bash
 |-- Wood work - Carpentry
 |----|---Termite - Termite frass | Signs of Destructive Termites!
-|    |---
-|-- c12
-|    |---c13
-|    |---c14
-|-- c2
+|    |--- Termido product
+|-- wood fillers
+|    |---DAP Premium Wood Filler 16 oz. White (3 in 1) sealant
+|    |---DAP Plastic wood
+|    |---3M Bondo wood filler
+|    |---wood putty | Deep pour epoxy
+|-- wOOD Preservative /Consolidate
+|    |--- Clear wood
+|    |--- Wood consolidate
+|
+|--
+
 ```
 
 #### Painting
 #### Masonary
 
 ```bash
-|-- Water proofing
+|----|---
 |----|---Termite - Termite frass | Signs of Destructive Termites!
 |    |---
-|-- Filler/Sealant
-|    |---c13
-|    |---c14
+|-- Exterior Filler/Sealant
+|    |--- HoRIZONTAL DAP Self leveling
+|    |--- DAP 
+|    |--- Windows, Doors 
+|-- Interior Filler/Sealant
+|    |--- HoRIZONTAL DAP Self leveling
+|    |--- DAP Crown Molding ALEX FLEX 10.1 oz. White Premium Molding and Trim Sealant - Crack Proof (Glass, Alumunium, Vinyl, Most plastics, Drywall, Fiber cement, PVC rimboard, Brick, Mortar stone,
+|    |     Premium latex, Baseboards, crown molding, windows,  interior sealant with adhesion to wood, INTERIOR doors, MDF, PVC)
+|    |--- Kitchen & Bathroom - DAP 
+DAP 3.0 Concrete & Masonry sELF-lEVELING 
 |-- Foam sealant
      |--- can be used only air tight the ac ducts
+|-- Cement
+     |--- 
+     |--- Rapid set Waterproofing Mortar -  less expensive - 
+     |--- for decks, driveway Foundation Armor 5 gal. Ready-To-Use Sodium Silicate Concrete Sealer, Densifier and Hardener
+     |--- DAP 3.0 Concrete & Masonry sELF-lEVELING 
 ```
 
 #### Maintenance
@@ -55,7 +74,7 @@ urls, links,
 ####  Gardening
 #### Drone
 Products 
-DAP 3.0 Concrete & Masonry sELF-lEVELING 
+
 Silicone Waterproof
 
 [Web scraping for financial statements with Python — 1](https://towardsdatascience.com/web-scraping-for-accounting-analysis-using-python-part-1-b5fc016a1c9a)
