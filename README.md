@@ -60,13 +60,15 @@ urls, links,
 |    |
 |    |--- Latex caulking
 |-- Exterior Filler/Sealant
-|    |--- HoRIZONTAL DAP Self leveling
+|    |--- HoRIZONTAL DAP Self leveling Concrete & Masonry
 |    |
-|    |--- (Blue color - exterior ) All weather material Weatherproofing  - DAP AMP Hybrid technology Advanced Modified 9 oz. White Polymer All Weather Window, Door and Siding Sealant (12-Pack)
+|    |--- GE  (clear color) - 100% sillicone freeze & sunproof - non paintable - window/door
 |    |
-|    |--- (Red color -  interior) All material Weatherproofing  - AMP Advanced Modified Polymer 9 oz. White Kitchen and Bath Sealant (12-Pack)
+|    |--- DAP (Blue color - exterior ) All weather,  All material Weatherproofing  - DAP AMP Hybrid technology Advanced Modified 9 oz. White Polymer All Weather Window, Door and Siding Sealant (12-Pack)
 |    |
-|    |--- Concrete - Waterproof, weather resistant seal - 10.1 oz. Gray Concrete and Mortar Filler and Latex Sealant https://www.homedepot.com/p/DAP-10-1-oz-Gray-Concrete-and-Mortar-Filler-and-Latex-Sealant-18096/204167828
+|    |--- DAP (Red color -  interior)    x ,     All material Weatherproofing  - AMP Advanced Modified Polymer 9 oz. White Kitchen and Bath Sealant (12-Pack)
+|    |
+|    |--- DAP (Green color) Concrete - Waterproof, weather resistant seal - 10.1 oz. Gray Concrete and Mortar Filler and Latex Sealant https://www.homedepot.com/p/DAP-10-1-oz-Gray-Concrete-and-Mortar-Filler-and-Latex-Sealant-18096/204167828
 |    |
 |    |--- DAP Windows, Doors 
 |    |
@@ -77,8 +79,8 @@ urls, links,
 |    |--- HoRIZONTAL DAP Self leveling
 |    |
 |    |--- DAP Crown Molding ALEX FLEX 10.1 oz. White Premium Molding and Trim Sealant - Crack Proof (Glass, Alumunium, Vinyl, Most plastics, Drywall, Fiber cement, PVC rimboard, Brick, Mortar stone,
-|    |
-|    |--- Premium latex, Baseboards, crown molding, windows,  interior sealant with adhesion to wood, INTERIOR doors, MDF, PVC)
+|    |   Premium latex, Baseboards, crown molding, windows,  interior sealant with adhesion to wood, INTERIOR doors, MDF, PVC)
+|    | 
 |    |
 |    |--- Kitchen & Bathroom - DAP 
 |    |
