@@ -38,9 +38,12 @@ urls, links,
 |-- wOOD Preservative /Consolidate
 |    |--- Clear wood
 |    |--- Wood consolidate
-|
-|--
-
+|    |--- Rust-Oleum 01901 Coppercoat Wood Preservative, 0.88-Gallon, Green
+|    |--- |Seal-Once Marine Premium Wood Sealer - Waterproof Sealant - Wood Stain and Sealer in One - 1 Gallon & Clear
+|-- Cheap Preventive methods
+|    |--- Boric acid (borate)
+|--- Marine - Bondo
+|--- BONDAO FIBERGLASS RESIN 
 ```
 
 #### Painting
@@ -50,15 +53,23 @@ urls, links,
 |----|---
 |----|---Termite - Termite frass | Signs of Destructive Termites!
 |    |---
+|----|---Caulking
+|    |--- Silicone caulking - resistant to mold, mildew
+|    |--- Latex caulking
 |-- Exterior Filler/Sealant
 |    |--- HoRIZONTAL DAP Self leveling
-|    |--- DAP 
-|    |--- Windows, Doors 
+|    |--- (Blue color) All material Weatherproofing  - DAP AMP Hybrid technology Advanced Modified 9 oz. White Polymer All Weather Window, Door and Siding Sealant (12-Pack)
+|    |--- Concrete - Waterproof, weather resistant seal - 10.1 oz. Gray Concrete and Mortar Filler and Latex Sealant https://www.homedepot.com/p/DAP-10-1-oz-Gray-Concrete-and-Mortar-Filler-and-Latex-Sealant-18096/204167828
+|    |--- DAP Windows, Doors 
+|    |--- DAP 3.0 Concrete & Masonry sELF-lEVELING 
 |-- Interior Filler/Sealant
 |    |--- HoRIZONTAL DAP Self leveling
 |    |--- DAP Crown Molding ALEX FLEX 10.1 oz. White Premium Molding and Trim Sealant - Crack Proof (Glass, Alumunium, Vinyl, Most plastics, Drywall, Fiber cement, PVC rimboard, Brick, Mortar stone,
 |    |     Premium latex, Baseboards, crown molding, windows,  interior sealant with adhesion to wood, INTERIOR doors, MDF, PVC)
 |    |--- Kitchen & Bathroom - DAP 
+|    |---
+|    |--- Kitchen & Bathroom - DAP 
+
 DAP 3.0 Concrete & Masonry sELF-lEVELING 
 |-- Foam sealant
      |--- can be used only air tight the ac ducts
@@ -66,7 +77,7 @@ DAP 3.0 Concrete & Masonry sELF-lEVELING
      |--- 
      |--- Rapid set Waterproofing Mortar -  less expensive - 
      |--- for decks, driveway Foundation Armor 5 gal. Ready-To-Use Sodium Silicate Concrete Sealer, Densifier and Hardener
-     |--- DAP 3.0 Concrete & Masonry sELF-lEVELING 
+     |--- Quikrete Type S Mortar
 ```
 
 #### Maintenance
