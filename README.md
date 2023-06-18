@@ -63,6 +63,10 @@ urls, links,
 |-- Exterior Filler/Sealant
 |    |--- HoRIZONTAL DAP Self leveling Concrete & Masonry
 |    |
+|    |--- Paper Schluter Kerdi 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane
+|    |
+|    |--- Wood sealer: 1. Seal once marine Premium clear(outdoor decks), 2. Helmsman Spar urethane, clear Gloss 3. Thompsons water seal clear multipurpose
+|    |
 |    |--- GE  (clear color) - 100% sillicone freeze & sunproof - non paintable - window/door
 |    |
 |    |--- DAP (Blue color - exterior ) All weather,  All material Weatherproofing  - DAP AMP Hybrid technology Advanced Modified 9 oz. White Polymer All Weather Window, Door and Siding Sealant (12-Pack)
@@ -75,6 +79,12 @@ urls, links,
 |    |
 |    |--- DAP 3.0 Concrete & Masonry sELF-lEVELING 
 |    |
+|    |--- Horizontal - Sideways, walkways
+|    |      |---- DAP 3.0 Concrete & Masonry sELF-lEVELING 
+|    |       |---- Powder & mist with water (DAP Gray Cement 1.62-lb Crack Filler) - $10
+|    |       |---- Liquid Seals cracks in concrete slabs, walkways, sidewalks - $12.98
+|    |--- Concrete sealer
+|    |      |---- Rainguard Concreesealer - lowes $30.00 per gallon - how long it lasts chat gpt
 |-- Interior Filler/Sealant
 |    |
 |    |--- HoRIZONTAL DAP Self leveling
@@ -89,7 +99,7 @@ urls, links,
 |    |
 |    |--- Kitchen & Bathroom - DAP 
 
-DAP 3.0 Concrete & Masonry sELF-lEVELING 
+
 |-- Foam sealant
      |--- can be used only air tight the ac ducts
 |-- Cement
