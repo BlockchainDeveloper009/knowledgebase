@@ -40,7 +40,7 @@ urls, links,
 |    |--- Clear wood
 |    |--- Wood consolidate
 |    |--- Rust-Oleum 01901 Coppercoat Wood Preservative, 0.88-Gallon, Green
-|    |--- |Seal-Once Marine Premium Wood Sealer - Waterproof Sealant - Wood Stain and Sealer in One - 1 Gallon & Clear
+|    |--- |Seal-Once Nano+poly Penetrating Marine Premium Wood Sealer - Waterproof Sealant - Wood Stain and Sealer in One - 1 Gallon & Clear
 |-- Cheap Preventive methods
 |    |--- Boric acid (borate)
 |--- Marine - Bondo
@@ -54,7 +54,7 @@ urls, links,
 |----|---
 |    |
 |----|---Termite - Termite frass | Signs of Destructive Termites!
-|    |---
+|    |--- Bait station vs solution https://www.youtube.com/watch?v=nTjhEIpuJ6Q
 |    |
 |----|---Caulking
 |    |--- Silicone caulking - resistant to mold, mildew
@@ -63,7 +63,7 @@ urls, links,
 |-- Exterior Filler/Sealant
 |    |--- HoRIZONTAL DAP Self leveling Concrete & Masonry
 |    |
-|    |--- Paper Schluter Kerdi 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane
+|    |--- Paper Schluter Kerdi 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane $2.20
 |    |
 |    |--- Wood sealer: 1. Seal once marine Premium clear(outdoor decks), 2. Helmsman Spar urethane, clear Gloss 3. Thompsons water seal clear multipurpose
 |    |
@@ -103,12 +103,16 @@ urls, links,
 |-- Foam sealant
      |--- can be used only air tight the ac ducts
 |-- Cement
-     |--- 
+     |--- Exterior plastering  -Eisenwell water resistant Mortar - https://www.ctscement.com/product/waterproofing-mortar?c=PRODUCTS&t=
      |--- Rapid set Waterproofing Mortar -  less expensive - 
      |--- for decks, driveway Foundation Armor 5 gal. Ready-To-Use Sodium Silicate Concrete Sealer, Densifier and Hardener
      |--- Quikrete Type S Mortar
+     |--- Cement config check herehttps://www.ctscement.com/product/grid?q=REPAIR%20%26%20RESTORATION
+     |--- SILANE SILOXANE - Eco Advance
+( 23/48
 ```
-
+https://github.com/ethereum/consensus-specs
+https://ethereum.org/en/developers/docs/nodes-and-clients/
 #### Maintenance
 #### Inspection
 ####  Gardening
