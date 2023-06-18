@@ -32,6 +32,7 @@ urls, links,
 |----|---Termite - Termite frass | Signs of Destructive Termites!
 |    |--- Termido product
 |-- wood fillers
+|    |---Brummer Exterior wood filler - water resistant
 |    |---DAP Premium Wood Filler 16 oz. White (3 in 1) sealant
 |    |---DAP Plastic wood
 |    |---3M Bondo wood filler
