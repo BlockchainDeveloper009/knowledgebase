@@ -4,7 +4,7 @@ urls, links,
 ## government links
 
 [U.S. Bureau of labor statistics](https://www.bls.gov/web/metro/laummtrk.htm)
-
+[skilled labor](http://www.calapprenticeship.org/programs/inspectors_apprenticeship.php#:~:text=The%20training%20classes%20are%20academically,3%20%2D%204%20years%20to%20complete.)
 ## economy
 
 ## learning
